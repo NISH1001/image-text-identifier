@@ -23,3 +23,11 @@ Also, `pandas` dataframe is used just in case.
 The above libraries/modules are installed using `pip` for python3 or just `pip3`.
 
 ----------------
+
+## Installation from requirements.txt
+Just use pip to install the above requirements.
+
+```bash
+pip install -r requirements.txt
+```
+--------------
